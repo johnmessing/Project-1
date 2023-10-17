@@ -51,4 +51,5 @@ pip install numpy
 
 # Authors 
 John Messing, 
-Jan Gutt
+Jan Gutt,
+Elizabeth Ogando
