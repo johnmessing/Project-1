@@ -47,8 +47,7 @@ pip install numpy
 * Run the script. It will perform the specified analysis and generate visualizations.
 * Follow the on-screen prompts to add or remove stocks from your watchlist.
 * Review your watchlist and exit the script when you are done.
-# Sample Output
-The script will generate various visualizations and provide information about your stock portfolio and watchlist.
+
 
 # Authors 
 John Messing, 
